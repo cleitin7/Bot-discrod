@@ -1,0 +1,2 @@
+TYPE = python
+MAIN = main.py
